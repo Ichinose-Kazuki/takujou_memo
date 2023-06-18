@@ -1,0 +1,1 @@
+[E][WiFiClient.cpp:395] write(): fail on fd 54, errno: 104, "Connection reset by peer"
